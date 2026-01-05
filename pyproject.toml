@@ -1,0 +1,9 @@
+[project]
+name = "lite-graphics-engine"
+version = "1.0.0"
+description = "Computer Graphics Lab System (计算机图形学实验大作业) - Pixel-level rendering with Tkinter"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+graphics-lab = "main:main"

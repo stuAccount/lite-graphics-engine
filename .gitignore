@@ -1,6 +1,12 @@
+# UV
+.venv/
+.python-version
+uv.lock
+
 # User Guides and Agent Prompts
 AGENTS.md
 guide.md
+
 
 # Python
 __pycache__/
