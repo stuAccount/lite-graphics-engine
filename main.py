@@ -207,9 +207,9 @@ class Algorithms:
             elif x > xmax:
                 code |= RIGHT
             if y < ymin:
-                code |= BOTTOM
-            elif y > ymax:
                 code |= TOP
+            elif y > ymax:
+                code |= BOTTOM
             return code
         
         code0 = compute_code(x0, y0)
