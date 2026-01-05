@@ -1,0 +1,29 @@
+# User Guides and Agent Prompts
+AGENTS.md
+guide.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.manifest
+*.spec
+build/
+dist/
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
